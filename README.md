@@ -18,7 +18,7 @@ Esta es una aplicación simple de lista de tareas creada con React. Permite a lo
 
 1. Clona este repositorio:
 
-git clone https://tu-repositorio.git
+git clone https://github.com/illeiva2/ProyectoFinal.git
 
 2. Navega al directorio del proyecto:
 
